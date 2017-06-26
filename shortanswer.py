@@ -1,10 +1,5 @@
 # MADE BY HARSH
 # harshavardhana.619@gmail.com
-def master_greet():
-	return "Welcome from master"
-import urllib
-def greetperson():
-	return "Welcome to shortanswer"
 
 base_url="http://api.wolframalpha.com/v1/result?"
 my_api="your api here"
